@@ -11,5 +11,6 @@ public class SecondActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
         Log.d("SecondActivity","second");
+        Log.d("Test Merge","test");
     }
 }
