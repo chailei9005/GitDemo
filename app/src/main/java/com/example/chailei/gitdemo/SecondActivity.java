@@ -13,5 +13,6 @@ public class SecondActivity extends AppCompatActivity {
         Log.d("SecondActivity","second");
         Log.d("Test Merge","test");
         Log.d("Test Merger again","test");
+        Log.d("master test conflict","test");
     }
 }
